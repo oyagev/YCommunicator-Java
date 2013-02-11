@@ -1,10 +1,12 @@
+package oyagev.YCommunicator;
+
 import static org.junit.Assert.*;
 
 import java.nio.ByteBuffer;
 
 import org.junit.Test;
 
-import oyagev.YCommunicator.*;
+
 
 public class InputBufferTest {
 	

@@ -1,3 +1,4 @@
+package oyagev.YCommunicator;
 
 import static org.junit.Assert.*;
 

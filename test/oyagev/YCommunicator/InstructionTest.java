@@ -1,3 +1,5 @@
+package oyagev.YCommunicator;
+
 import static org.junit.Assert.*;
 
 import java.nio.ByteBuffer;

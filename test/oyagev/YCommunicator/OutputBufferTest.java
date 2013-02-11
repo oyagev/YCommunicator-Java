@@ -1,9 +1,10 @@
+package oyagev.YCommunicator;
+
 import static org.junit.Assert.*;
 
 
 import org.junit.Test;
 
-import oyagev.YCommunicator.*;
 
 public class OutputBufferTest {
 	
